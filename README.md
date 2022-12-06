@@ -1,4 +1,4 @@
-# IDOWN #
+# IDOWN <img src="C:\Users\HP-PC\Documents\GitHub\IDOWN\IDOWN ICON.png" style="zoom:25%;" /> #
 ## The modern TUI downloader,Build with C++ and LOVE ##
 ------
 ### HOW TO USE ###
