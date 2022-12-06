@@ -2,7 +2,7 @@
 ## The modern TUI downloader,Build with C++ and LOVE ##
 
 
-```
+```text
                               
           :--====-:.          
        .=============-        
@@ -54,7 +54,7 @@
 
 ### HOW TO USE ###
 1. copy the NEWEST [aria](https://github.com/aria2/aria2/releases) to the ` .\aria2 ` folder (if you want to use the newest version)
-2.complie and run ` IDOWN.exe `
+2. compile and run ` IDOWN.exe `
 
 
 ---
